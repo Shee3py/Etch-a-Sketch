@@ -8,6 +8,4 @@ body{
     display: flex;
     flex-direction: column;
 }
-.block{
-    background-color: black;
-}
+
