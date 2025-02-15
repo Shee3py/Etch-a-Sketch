@@ -1,5 +1,7 @@
 body{
     margin: 0;
+    display: flex;
+    justify-content: space-between;
 }
 
 #container{
@@ -7,5 +9,10 @@ body{
     height: 960px;
     display: flex;
     flex-direction: column;
+}
+
+#reset{
+    height: 30px;
+    width: 80px;
 }
 
